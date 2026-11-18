@@ -15,6 +15,7 @@ Grok Build + Grok 的证据优先项目健康审计技能。此项目是 `ground
 | 分发仓库 | `grok-grounded-audit` |
 | 宿主 | Grok Build |
 | 模型 | Grok |
+| 适配范围 | 宿主 + 模型专项 |
 | 技能名 | `audit-project-health` |
 | 调用入口 | `/audit-project-health` |
 | 适配证据 | `documented` |
