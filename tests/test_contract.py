@@ -31,7 +31,7 @@ class ContractTests(unittest.TestCase):
         self.assertEqual(lines[0].strip(), "---")
         self.assertIn("name: audit-project-health", lines)
         self.assertIn("license: Apache-2.0", lines)
-        self.assertIn("  version: 0.1.0", lines)
+        self.assertIn("  version: 0.1.1", lines)
         self.assertIn("when-to-use:", text)
         self.assertNotIn("allowedTools:", text)
         self.assertNotIn("allowed-tools:", text)
