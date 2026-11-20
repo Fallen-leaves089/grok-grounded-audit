@@ -5,7 +5,7 @@ when-to-use: Use when the user asks for 项目体检、上线前审计、交接�
 license: Apache-2.0
 compatibility: 适用于 Grok Build 的 SKILL.md 技能入口；Python 3.10+ 可选，用于安装、校验和安全记录器。
 metadata:
-  version: 0.1.1
+  version: 0.1.2
   stage: single-host-grok-build
   memory-format: six-field-markdown
   short-description: "证据优先的项目健康审计"
